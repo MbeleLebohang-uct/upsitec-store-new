@@ -15,14 +15,15 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
-gem 'bootstrap', '~> 4.1.3'
+gem 'bootstrap-sass'
 gem 'font-awesome-sass', '~> 5.2.0'
+gem 'popper_js', '~> 1.14.5'
 
 
 # Spree gems
-#gem 'spree', '~> 3.6'
-#gem 'spree_auth_devise', '~> 3.3'
-#gem 'spree_gateway', '~> 3.3'
+gem 'spree', '~> 3.6'
+gem 'spree_auth_devise', '~> 3.3'
+gem 'spree_gateway', '~> 3.3'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
