@@ -521,6 +521,12 @@ section
 	font-weight: 500;
 	color: #0e8ce4;
 }
+.logo .logo-img{
+	max-width: 150px;
+}
+.header_main .logo-img{
+	padding-top: 15px;
+}
 .header_search
 {
 	height: 175px;
@@ -3524,8 +3530,8 @@ select option
 .footer .logo_container
 {
 	height: auto;
-	margin-bottom: 18px;
-	margin-top: -10px;
+	margin-bottom: -70px;
+    margin-top: 40px;
 }
 .footer .logo
 {
@@ -3536,6 +3542,7 @@ select option
 {
 	color: #000000;
 }
+
 .footer_title
 {
 	font-size: 14px;
@@ -3575,7 +3582,7 @@ select option
 }
 .footer_social ul li i
 {
-	color: #000000;
+	color: #0e8ce4;
 	line-height: 30px;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -3585,7 +3592,7 @@ select option
 }
 .footer_social ul li:hover i
 {
-	color: #0e8ce4;
+	color: #000000;
 }
 .footer_subtitle
 {

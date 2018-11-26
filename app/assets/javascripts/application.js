@@ -20,6 +20,8 @@
 
 // Javascripts File For All Pages
 
+//= require bootstrap-4.1.3/js/bootstrap.min
+//= require bootstrap-4.1.3/js/bootstrap.bundle.min
 //= require greensock/TweenMax.min
 //= require greensock/TimelineMax.min
 //= require scrollmagic/ScrollMagic.min
